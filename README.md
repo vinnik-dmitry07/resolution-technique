@@ -1,0 +1,2 @@
+# ResolutionTechnique
+![Screenshot](screenshot.png)
